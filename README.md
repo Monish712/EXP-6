@@ -1,23 +1,47 @@
 # EXP-6
-EXP No. :6 			CHARACTERISTICS M OF LVDT
-AIM:To measure output voltage w.r.t the displacement of the core on the LVDT kit and
+
+EXP No. :6  CHARACTERISTICS M OF LVDT
+
+AIM:
+
+To measure output voltage w.r.t the displacement of the core on the LVDT kit and
 find the graphical relationship between the two.
 
-APPARATUS: - LVDT kit, Multimeter
+APPARATUS:  
 
-THEORY: - LVDT is basically a mutual inductance type transformer with variable coupling between the primary and two secondary coils. It is equivalent to E.Pick off in its operation except the reluctance of magnetic path is mostly due to air path. Uniformly wound over a certain length of transducer and two identical secondary coil systematically wound on either side of the primary coils and away from center. The iron rod is free to move inside the coil in either direction from the null point when primary coil is excitedly AC supply the induced emf of secondary are equal to each other with the core lying in null position. The secondary are connected in series with but in phase opposition so that resultant output voltage is zero.Displacement of core in either direction from the null position results in output voltage as read by an AC rms voltmeter and it is observed that there is a residual voltage at the null position. Due to capacitance coupling between primary and secondary and the characteristics of a linear over a limited  displacement.
+LVDT kit, Multimeter
+
+THEORY: 
+LVDT is basically a mutual inductance type transformer with variable coupling between the primary and two secondary coils. It is equivalent to E.Pick off in its operation except the reluctance of magnetic path is mostly due to air path. Uniformly wound over a certain length of transducer and two identical secondary coil systematically wound on either side of the primary coils and away from center. The iron rod is free to move inside the coil in either direction from the null point when primary coil is excitedly AC supply the induced emf of secondary are equal to each other with the core lying in null position. The secondary are connected in series with but in phase opposition so that resultant output voltage is zero.Displacement of core in either direction from the null position results in output voltage as read by an AC rms voltmeter and it is observed that there is a residual voltage at the null position. Due to capacitance coupling between primary and secondary and the characteristics of a linear over a limited  displacement.
 
 DIAGRAM:
+
+![WhatsApp Image 2025-11-11 at 23 25 50_77eb18f9](https://github.com/user-attachments/assets/d03a4842-d302-43b5-b952-3229806ce961)
+![WhatsApp Image 2025-11-11 at 23 25 50_6d5f6fe9](https://github.com/user-attachments/assets/e5662ba0-ad3a-4ba3-9f9d-dffee2017252)
+![WhatsApp Image 2025-11-11 at 23 25 50_1dea8d23](https://github.com/user-attachments/assets/30b6423f-b53e-4bd0-b011-a6a137bc825f)
+![WhatsApp Image 2025-11-11 at 23 25 51_619bb1fc](https://github.com/user-attachments/assets/fbe4a5ee-3a53-458e-9f82-9a502478dccf)
+![WhatsApp Image 2025-11-11 at 23 25 51_1d2cacbd](https://github.com/user-attachments/assets/bbcf1aea-4f8e-4e50-ae82-190155da0ea9)
+
+
+
+
 CIRCUIT DIAGRAM
+
+
+<img width="1550" height="933" alt="Screenshot 2025-10-27 091805" src="https://github.com/user-attachments/assets/d0295ace-df06-4268-9b90-12e519256fe4" />
+
+<img width="1561" height="894" alt="Screenshot 2025-10-27 091838" src="https://github.com/user-attachments/assets/06a2e2dc-9b4f-4dcb-abb7-d89c3be03162" />
+
+<img width="1546" height="903" alt="Screenshot 2025-10-27 091905" src="https://github.com/user-attachments/assets/a3449f98-4b64-423a-95d3-eeee3149f0f9" />
+
+
+
 PROCEDURE: -
 I. Connect the multimeter at the output of kit..
 2. Set the range to a maximum value of 10 mm.
 3. More the gauge from zero to maximum of 20mm.
 4. Value and note the corresponding values of voltages in the multimeter.
 5. Plot the graph between displacement and voltages on the graph paper.
-
-
-OBSERVATION TABLE
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
